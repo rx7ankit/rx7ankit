@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ankit</h1>
+<h1 align="center"> こんにちは 👋, I'm Ankit</h1>
 <h3 align="center">🚀 Software Developer | 📊 Project Manager</h3>
 
 <p align="center">
