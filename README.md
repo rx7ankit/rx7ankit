@@ -1,15 +1,11 @@
 <h1 align="center"> こんにちは 👋, I'm Ankit</h1>
-<h3 align="center">🚀 Software Developer | 📊 Project Manager</h3>
-
-<p align="center">
-  <em>Building scalable systems, crafting delightful interfaces, and solving real-world problems with code.</em>
-</p>
+<h3 align="center">Building AgenticZA</h3>
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-### 🧠 Languages I Speak
+### 🧠 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -18,7 +14,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🎨 Frontend Playground
+### 🎨 Frontend 
 <p>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -27,7 +23,7 @@
   <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-### 🔧 Backend Arsenal
+### 🔧 Backend 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -36,7 +32,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 🗄️ Databases I Handle
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -80,8 +76,3 @@
   <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
----
-
-<p align="center">
-  ⚡ Let's connect, collaborate, and create something awesome!
-</p>
