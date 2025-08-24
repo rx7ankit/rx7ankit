@@ -1,6 +1,4 @@
 <h1 align="center"> こんにちは 👋, I'm Ankit</h1>
-<h3 align="center">Building AgenticZA</h3>
-
 ---
 
 ## 🔧 Tech Stack & Tools
