@@ -1,114 +1,136 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Ankit%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20🚀&descAlignY=55&descSize=18"/>
+<!-- Animated Header Banner — obsidian/rock-black gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,4,6&height=200&section=header&text=Ankit&fontSize=72&fontColor=E8E8E8&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%C2%B7%20Tenjin%20Tech%20LLC&descAlignY=60&descSize=22&descColor=A0A0A0"/>
 
-<!-- Typing SVG -->
+<!-- Typing SVG — entrepreneurial, premium tone -->
 <a href="https://github.com/rx7ankit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD9F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Turning+Ideas+into+Reality+%F0%9F%92%A1;Let's+Build+Something+Amazing!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C0C0C0&center=true&vCenter=true&random=false&width=680&lines=Co-Founder+%26+Technology+Executive;Building+AI-Powered+Products+at+Scale;Full-Stack+%7C+AI+%7C+ML+%7C+Systems+Architecture;Turning+Vision+into+Ventures;Engineering+the+Future+from+First+Principles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=rx7ankit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rx7ankit&label=Profile+Views&color=1a1a1a&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/rx7ankit?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/rx7ankit?label=Followers&style=for-the-badge&color=1a1a1a&logo=github&logoColor=white" alt="GitHub Followers" />
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- About Me -->
+<img align="right" alt="Building" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-## 🧑‍💻 About Me
+## ◈ About Me
 
-```yaml
-name: Ankit
-handle: rx7ankit
-location: India 🇮🇳
-status: Always coding something cool...
+```typescript
+const ankit = {
+  role     : "Co-Founder & CTO",
+  company  : "Tenjin Tech LLC",
 
-passion:
-  - Building full-stack applications
-  - Open source contributions
-  - Clean & scalable code
+  expertise: [
+    "AI / ML Systems",
+    "Full-Stack Architecture",
+    "Product Engineering",
+    "Scalable Backend Infrastructure",
+  ],
 
-current_focus:
-  - Mastering system design
-  - Contributing to OSS
-  - Building side projects
+  building : "Products that matter — at scale",
 
-fun_fact: >
-  I debug with console.log() and
-  I'm not ashamed of it 😄
+  principle: "Ship fast. Think deep. Build to last.",
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ My Tech Arsenal
+## ◈ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
+### Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=8" />
+</p>
+<p>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3A2A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
-### 🌐 Frontend
+### Backend & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,go,java,fastapi,express&perline=8" />
+</p>
+<p>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Databases
+### Databases & Data Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase&perline=8" />
+</p>
+<p>
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-FF6347?style=for-the-badge&logo=weaviate&logoColor=white"/>
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img alt="Vector DB" src="https://img.shields.io/badge/Vector%20DB-6E3FF3?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 🧰 Tools & DevOps
+### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx&perline=8" />
+</p>
+<p>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
+
+### Frontend & Product
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,figma&perline=8" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rx7ankit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rx7ankit&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rx7ankit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=C0C0C0&icon_color=888888&text_color=C0C0C0&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rx7ankit&theme=github-dark-blue&hide_border=true&ring=888888&fire=C0C0C0&currStreakLabel=C0C0C0" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rx7ankit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rx7ankit&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=C0C0C0&text_color=A0A0A0&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ◈ Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rx7ankit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rx7ankit&theme=github-compact&hide_border=true&area=true&color=888888&line=888888&point=C0C0C0&area_color=333333" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rx7ankit&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
+## ◈ Contribution Snake
 
 <div align="center">
   <picture>
@@ -118,38 +140,21 @@ fun_fact: >
   </picture>
 </div>
 
-> 💡 **To enable the snake animation:** Create a GitHub Action in `.github/workflows/snake.yml` — I've included the setup below!
-
 ---
 
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🤝 Connect With Me
+## ◈ Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rx7ankit)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rx7ankit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ankitxrpm)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rx7ankit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rx7ankit)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rx7ankit)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ankitxrpm)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rx7ankit@gmail.com)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-### ⭐ If you like my work, consider starring my repos!
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,4,6&height=120&section=footer"/>
 </div>
